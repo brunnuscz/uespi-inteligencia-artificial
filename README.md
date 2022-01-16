@@ -1,0 +1,2 @@
+# uespi-inteligencia-artificial
+🤖 Trabalhos
