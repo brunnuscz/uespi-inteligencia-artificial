@@ -1,2 +1,1 @@
 # Inteligência Artificial
-🤖 Trabalhos
